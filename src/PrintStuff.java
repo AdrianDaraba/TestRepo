@@ -4,6 +4,6 @@ public class PrintStuff {
 		
 		System.out.println("1 + 1 = 2");
 		System.out.println("2 + 1 = 3");
-		System.out.println("1 + 4 = 8");
+		System.out.println("4 + 4 = 8");
 	}
 }
